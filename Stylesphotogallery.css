@@ -1,0 +1,16 @@
+h1 {color: Navy Blue; }
+
+body {
+	Background: #DAD7AD;
+	Color: #304A7A;
+	font-size: 12pt;
+	font-family: "Courier New", Courier, monospace}
+li {
+	display: inline-block;
+	border: #DAD7AD;
+	background: White;
+	padding: 10px;
+	margin: 20px}
+	
+	table, td, th { border: 1px Navy Blue; border-collapse: collapse }
+	
